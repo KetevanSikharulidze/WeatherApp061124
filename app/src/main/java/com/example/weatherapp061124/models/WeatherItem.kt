@@ -1,6 +1,6 @@
 package com.example.weatherapp061124.models
 
-data class DayItem (
+data class WeatherItem (
     val city: String,
     val time: String,
     val condition: String,
